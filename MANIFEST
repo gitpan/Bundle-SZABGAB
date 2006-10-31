@@ -1,0 +1,5 @@
+Makefile.PL
+MANIFEST
+lib/Bundle/SZABGAB.pm
+t/pod.t
+META.yml
